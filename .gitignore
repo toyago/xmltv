@@ -41,3 +41,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 /target/
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/org.technicode/xmltv/pom.properties
